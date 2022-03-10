@@ -24,6 +24,7 @@ jobs:
           # Options
           user: viniciusmra
           template: classic
+          base: ""
           config_timezone: America/Sao_Paulo
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
