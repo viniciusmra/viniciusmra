@@ -26,6 +26,7 @@ jobs:
           template: classic
           base: ""
           config_timezone: America/Sao_Paulo
+          config_display: large
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
