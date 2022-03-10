@@ -1,20 +1,32 @@
-### Hi there 👋
+### Oi, eu sou o Gok.... Vinícius
+##
+Aluno de Ciência da Computação na UFPI dono de uma pequena editora (conhecem a Editora Pathos?) e um canal do youtube (que quase nunca é atualizado 😥).
 
-<!--
-**viniciusmra/viniciusmra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div class="teste">
+<div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=viniciusmra&count_private=true&show_icons=true&theme=tokyonight"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmra&theme=tokyonight&layout=compact&count_private=true&include_all_commits=true"/>
 </div>
+<!--
+icones das linguagens retirads de devicons
+-->
+<div align="center">
+  
+  <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+  <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" />
+  <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
+  <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
+  
+</div>
+
+##
+<div>
+  <a href="https://www.youtube.com/c/quaseengenheiro" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="mailto:viniciusmra@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</div>
+
+##
+<div align="center">
+  <img align="center" src="/github-metrics.svg" alt="Metrics" width="800">
+</div>  
