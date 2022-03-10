@@ -27,6 +27,6 @@ icones das linguagens retirads de devicons
 </div>
 
 ##
-<div align="center">
-  <img align="center" src="/github-metrics.svg" alt="Metrics" width="800">
+<div align="right">
+  <img align="right" src="/github-metrics.svg" alt="Metrics" width="800">
 </div>  
