@@ -5,7 +5,9 @@ Aluno de Ciência da Computação na UFPI dono de uma pequena editora (conhecem 
 </p>
 </br>
 <div align="center">
-
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=viniciusmra&count_private=true&show_icons=true&theme=tokyonight"/>
+  <span>&nbsp &nbsp &nbsp &nbsp</span>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmra&theme=tokyonight&layout=compact&count_private=true&include_all_commits=true"/>
 </div>
 <!--
 icones das linguagens retirads de devicons
