@@ -1,4 +1,4 @@
-### Oi, eu sou o Gok... Vinícius
+### Vinícius Alves
 ##
 <p>
 Aluno de Ciência da Computação na UFPI dono de uma pequena editora (conhecem a Editora Pathos?)
