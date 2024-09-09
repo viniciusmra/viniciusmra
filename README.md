@@ -1,7 +1,7 @@
 ### Vinícius Alves
 ##
 <p>
-Aluno de Ciência da Computação na UFPI dono de uma pequena editora (conhecem a Editora Pathos?)
+Aluno de Ciência da Computação na UFPI.
 </p>
 </br>
 <div align="center">
