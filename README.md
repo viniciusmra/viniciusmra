@@ -21,9 +21,6 @@ icones das linguagens retirads de devicons
   <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
 
-<div align="right">
-  <img width="100%" src="https://github.com/viniciusmra/viniciusmra/blob/output/github-contribution-grid-snake.svg"/>
-</div>  
 </br>
 <div>
   <a href="mailto:viniciusmra@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
