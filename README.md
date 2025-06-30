@@ -1,7 +1,7 @@
 ### Vinícius Alves
 ##
 <p>
-Aluno de Ciência da Computação na UFPI.
+Cientista da Computação
 </p>
 </br>
 <div align="center">
